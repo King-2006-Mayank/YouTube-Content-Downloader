@@ -3,10 +3,7 @@ Author - Mayank Bajaj
 <br>
 A Python GUI Based Program to Download Youtube Content
 <br/>
-<br/>
-<br/>
 INSTRUCTIONS FOR USE
-<br>
 <br/>
 1) This code works in Python v3 and above versions.
 <br/>

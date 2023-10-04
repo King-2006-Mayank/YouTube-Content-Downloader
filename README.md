@@ -1,14 +1,19 @@
 # YouTube-Content-Downloader
-<br>
 Author - Mayank Bajaj
-</br>
+<br/>
 A Python GUI Based Program to Download Youtube Content
-<br>
+<br/>
+<br/>
+<br/>
 INSTRUCTIONS FOR USE
 <br/>
+<br/>
 1) This code works in Python v3 and above versions.
+<br/>
 2) Install Pafy Module to your system by pasting the command - "pip install pafy" in Your PowerShell.
+<br/>
 3) Ensure that you have downloaded all files and all of them are located in same folder.
+<br/>
 4) Internet Connection in Mandatory to run the program
 
 STEPS TO DOWNLOAD A VIDEO/AUDIO

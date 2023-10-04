@@ -5,7 +5,7 @@ Author - Mayank Bajaj
 A Python GUI Based Program to Download Youtube Content
 <br>
 INSTRUCTIONS FOR USE
-<b/r>
+<br/>
 1) This code works in Python v3 and above versions.
 2) Install Pafy Module to your system by pasting the command - "pip install pafy" in Your PowerShell.
 3) Ensure that you have downloaded all files and all of them are located in same folder.

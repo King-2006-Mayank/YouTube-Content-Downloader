@@ -21,7 +21,7 @@ STEPS TO DOWNLOAD A VIDEO/AUDIO
 4) Click on "Get Data" Button.
 5) Click on "Select Location" Button and choose the directory for the download.
 6) Click on the "Start Downloading" Button and wait till the green tick appears 
-   (it is normal for the GUI to get stuct after clicking the start downloading button, You can see the progress on Output prompt).
+   (it is normal for the GUI to get stuck after clicking the start downloading button, You can see the progress in the Info panel, as mentioned in the Usage Manual PDF).
 
 
 .... AND YOUR FILE IS DOWNLOADED.

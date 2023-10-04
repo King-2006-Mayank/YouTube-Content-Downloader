@@ -1,3 +1,11 @@
+'''
+YOUTUBE CONTENT DOWNLOADER
+
+Author - Mayank Bajaj
+
+pip install pafy
+'''
+
 from tkinter import *
 from tkinter import messagebox
 from PIL import ImageTk, Image
